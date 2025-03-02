@@ -36,3 +36,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Komal-Disanayaka"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Komal-Disanayaka" /></a></p><br><br>
+
+ <br>
+  
+[![Komal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Komal-Disanayaka&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Komal's github stats](https://github-readme-stats.vercel.app/api?username=Komal-Disanayaka&show_icons=true&theme=tokyonight) | ![Komal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Komal-Disanayaka&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Komal-Disanayaka&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Komal-Disanayaka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
+
+
+<br>
+
