@@ -5,11 +5,11 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🔭 I’m currently working project on **Online bookstore management system**
+- 🌱 I'm **2nd year Software Engineer Student from SLIIT University**.
 
-- 📝  I'm currently pursuing a **BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT)**.
+- 🔭 I’m currently Focusing Projects on **AI System Development & Softwere Development**
   
-- 🌱 I’m currently learning **OOP with Java**
+- 📝 I’m currently Learning on **Machine Learning and Deep Learning Models**
 
 - 📫 How to reach me **komaldissanayaka12345@gmail.com**
 
