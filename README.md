@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working project on **Online bookstore management system**
 
-- 📝 I’m undergraduate at **SLIIT University**
+- 📝  I'm currently pursuing a **BSc (Hons) in Information Technology, specializing in Software Engineering at the Sri Lanka Institute of Information Technology (SLIIT)**.
   
 - 🌱 I’m currently learning **OOP with Java**
 
