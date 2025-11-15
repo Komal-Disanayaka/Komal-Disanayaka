@@ -5,7 +5,7 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🌱 I'm **2nd year Software Engineer Student from SLIIT University**.
+- 🌱 I'm **2nd year AI And Data Science Student from SLIIT University**.
 
 - 🔭 I’m currently Focusing Projects on **AI System Development & Softwere Development**
   
