@@ -5,11 +5,11 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-- 🌱 I'm **2nd year AI And Data Science Student from SLIIT University**.
+- 🌱 I'm **2nd year Data Science Student from SLIIT University**.
 
-- 🔭 I’m currently Focusing Projects on **AI System Development & Softwere Development**
+- 🔭 I’m currently Focusing Projects on **AI Application Development | professional Web Application Development**
   
-- 📝 I’m currently Learning on **Machine Learning and Deep Learning Models**
+- 📝 I’m currently Learning on **Data Science fundamental And MERN Stack**
 
 - 📫 How to reach me **komaldissanayaka12345@gmail.com**
 
